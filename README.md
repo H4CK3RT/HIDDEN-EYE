@@ -5,7 +5,8 @@ apt upgrade
 
 apt install git 
 
-git clone https://github.com/DarkSecDevelopers/HiddenEye.git
+git clone https://github.com/H4CK3RT/HIDDEN-EYE
+
 
 cd HiddenEye
 
