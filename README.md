@@ -12,4 +12,9 @@ cd HiddenEye
 
 chmod 777 HiddenEye.py
 
-python3 HiddenEye.py or ./HiddenEye.py
+python HiddenEye.py
+
+or
+
+./HiddenEye.py
+
